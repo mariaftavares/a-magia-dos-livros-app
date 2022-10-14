@@ -1,6 +1,6 @@
 import { Pressable, View, Text, StyleSheet, Image } from 'react-native';
 
-export default function List({title, imageUrl, category, onPress}) {
+export default function List({title, imageUrl, author, onPress}) {
   return (
       <View style={styles.gridItem}>
           <Pressable android_ripple={{color: "#ccc"}} style={styles.button} onPress={onPress}>
@@ -10,7 +10,7 @@ export default function List({title, imageUrl, category, onPress}) {
                   </View>
                   <View style={styles.textContainer}>
                     <Text style={styles.text}>Titulo: {title}</Text>
-                    <Text style={styles.text}>Categoria: {category}</Text>
+                    <Text style={styles.text}>Autor: {author}</Text>
                   </View>
               </View>
           </Pressable>

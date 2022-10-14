@@ -13,11 +13,13 @@ export default function ExtensionsListScreen({navigation, route}) {
         title: item.title,
         category: item.category,
         imageUrl: item.imageUrl,
-        description: item.description
+        description: item.description,
+        author: item.author,
+        publication_date: item.publication_date
       })
     };
   
-    return <List title={item.title} imageUrl={item.imageUrl} category={item.category} onPress={onPressHandler}/>;
+    return <List title={item.title} imageUrl={item.imageUrl} author={item.author} onPress={onPressHandler}/>;
   }
 
   return (

@@ -55,6 +55,7 @@ function BottomTabNavigator() {
       initialRouteName="Sobre"
       screenOptions={{
         tabBarActiveTintColor: '#448589',
+        
       }}>
       <BottomTab.Screen
         name="Sobre"

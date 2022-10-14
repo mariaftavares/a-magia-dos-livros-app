@@ -151,13 +151,13 @@
     },
     {
         "id": "17",
-        "title":"",
-        "category":"",
-        "author":"",
-        "publication_date": "",
-        "description": "",
-         "imageUrl": "",
-        "imageLogoUrl":""
+        "title":"Admirável mundo novo",
+        "category":"Ficção Cientifica",
+        "author":"Aldous Huxley",
+        "publication_date": "1932",
+        "description": "Nele mergulhamos em uma sociedade totalmente controlada, na qual os habitantes são condicionados a viver de acordo com leis rígidas a fim de manter a ordem, sem liberdade ou pensamento crítico. É interessante observar como o autor foi visionário ao imaginar uma realidade tecnológica, reprodução assistida e outras situações que dialogam com a contemporaneidade, mesmo datando da década de 30.",
+         "imageUrl": "https://cdn.culturagenial.com/imagens/admiravel-mundo-novo-capa-do-livro-cke.jpg?auto_optimize=low",
+        "imageLogoUrl":"https://cdn.culturagenial.com/imagens/admiravel-mundo-novo-capa-do-livro-cke.jpg?auto_optimize=low"
     },
     {
         "id": "18",

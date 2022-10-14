@@ -8,10 +8,10 @@ export default function Details({route}) {
             <Image source={{uri: route.params.imageUrl}} style={styles.image}/>
           </View>
           <Text style={styles.text}>Título: {route.params.title}</Text>
-          <Text style={styles.text}>Categoria: {route.params.category}</Text>
+          <Text style={styles.text}>{route.params.category} por {route.params.author}</Text>
           <Text style={styles.text}>Detalhes:</Text>
           <ScrollView style={styles.descriptionContainer}>
-            <Text style={styles.description}>{route.params.description}</Text>
+            <Text style={styles.description}>{route.params.title} é um {route.params.category} escrito por {route.params.author} em {route.params.publication_date}.{'\n'}{route.params.description}</Text>
           </ScrollView>
       </View>
     </View>
