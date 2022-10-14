@@ -2,14 +2,14 @@ import { Text, View, Image, StyleSheet,ScrollView } from 'react-native';
 
 export default function Details({route}) {
   return (
-    <View style={{flex: 1, backgroundColor:"green"}}>
+    <View style={{flex: 1, backgroundColor:"#92B7BB"}}>
       <View style={styles.container}>
           <View style={styles.imageContainer}>
             <Image source={{uri: route.params.imageUrl}} style={styles.image}/>
           </View>
-          <Text style={styles.name}>Título: {route.params.name}</Text>
-          <Text style={styles.name}>Categoria: {route.params.category}</Text>
-          <Text style={{fontSize: 16, fontWeight: 'bold', marginBottom: 8}}>Detalhes:</Text>
+          <Text style={styles.text}>Título: {route.params.title}</Text>
+          <Text style={styles.text}>Categoria: {route.params.category}</Text>
+          <Text style={styles.text}>Detalhes:</Text>
           <ScrollView style={styles.descriptionContainer}>
             <Text style={styles.description}>{route.params.description}</Text>
           </ScrollView>
@@ -30,14 +30,17 @@ const styles = StyleSheet.create({
     width: "100%",
     height: "30%"
   },
-  name: {
+  text: {
     fontSize: 16,
     fontWeight: 'bold',
     margin: 5,
-    color: "green"
+    color: "#292727",
+    fontFamily:'Lustria-Regular',
   },
   description: {
     fontWeight: 'bold',
+    color: "#545454",
+    fontFamily:'Lustria-Regular',
   },
   descriptionContainer:{
     textAlign: "center",
@@ -53,7 +56,7 @@ const styles = StyleSheet.create({
     borderRadius: 20,
     width: "80%",
     height: "50%",
-    backgroundColor: "#F3F3F3"
+    backgroundColor: "#F1F1F1"
   },
   dates:{
     margin: 5,

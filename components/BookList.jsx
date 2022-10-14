@@ -1,6 +1,6 @@
 import { Pressable, View, Text, StyleSheet, Image } from 'react-native';
 
-export default function List({name, imageUrl, category, onPress}) {
+export default function List({title, imageUrl, category, onPress}) {
   return (
       <View style={styles.gridItem}>
           <Pressable android_ripple={{color: "#ccc"}} style={styles.button} onPress={onPress}>
@@ -9,8 +9,8 @@ export default function List({name, imageUrl, category, onPress}) {
                     <Image source={{uri: imageUrl}} style={styles.image}/>
                   </View>
                   <View style={styles.textContainer}>
-                    <Text style={styles.name}>Evento: {name}</Text>
-                    <Text style={styles.name}>Categoria: {category}</Text>
+                    <Text style={styles.text}>Titulo: {title}</Text>
+                    <Text style={styles.text}>Categoria: {category}</Text>
                   </View>
               </View>
           </Pressable>
@@ -24,7 +24,7 @@ const styles = StyleSheet.create({
     height: 100,
     borderRadius: 8,
     elevation: 4,
-    backgroundColor: "white",
+    backgroundColor: "#CEDEDF",
     shadowColor:"black",
     shadowOpacity: 0.25,
     shadowOffset: {width: 0, height: 2},
@@ -32,7 +32,7 @@ const styles = StyleSheet.create({
     overflow: "hidden"
   },
   imageContainer:{
-    width: "30%",
+    width: "40%",
     height: "100%",
     marginRight: 5
   },
@@ -58,8 +58,9 @@ const styles = StyleSheet.create({
     justifyContent:"space-between",
     marginLeft: 5
   },  
-  name:{
+  text:{
     fontWeight: "bold",
-    fontSize: 14
+    fontSize: 14,
+    fontFamily:'Lustria-Regular',
   }
 })

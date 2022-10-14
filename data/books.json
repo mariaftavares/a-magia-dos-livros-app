@@ -1,34 +1,323 @@
 [
     {
         "id": "1",
-        "name":"teste1",
-        "category":"Terror",
-        "description": "Fusce sodales varius est. Donec varius tellus dui, eu auctor mi convallis at. Mauris id tortor et massa fringilla placerat eget vitae odio. Sed placerat leo odio, at tincidunt turpis egestas non. Praesent quis euismod enim. Nullam ornare sem risus, eu scelerisque nisl faucibus eget. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed ac iaculis nisi. Aliquam commodo quis leo eu commodo. Nunc sed euismod neque. Praesent pretium ante non consectetur viverra. Praesent pulvinar ante a nisi interdum placerat. Aenean eget neque placerat, consequat ante ac, vestibulum ex.Nam a lacus consectetur, consectetur dolor sit amet, tempor enim. Morbi blandit velit molestie, tristique neque sit amet, viverra sapien. Sed tincidunt dictum ipsum, a bibendum arcu sollicitudin a. Vivamus et dictum neque. Nullam vitae turpis nec est maximus eleifend a et lorem. Duis varius accumsan diam et suscipit. In tortor elit, tincidunt ut vehicula eget, porttitor eu risus. Cras euismod ipsum fringilla, convallis turpis et, blandit eros. Suspendisse ut risus et purus tristique imperdiet. Integer finibus porta sapien, nec sodales sem. Mauris pulvinar imperdiet dui, sit amet pretium lorem interdum vitae. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tempor massa sed metus venenatis tincidunt.",
-        "imageUrl": "https://media.istockphoto.com/photos/law-quadrangle-university-of-michigan-ann-arbor-aerial-view-picture-id1319991057?b=1&k=20&m=1319991057&s=170667a&w=0&h=MXEuQhq56vOInXq7NqZcBynvLxynnBIN8bwgm4dWE-U=",
-        "imageLogoUrl":"https://media.istockphoto.com/photos/law-quadrangle-university-of-michigan-ann-arbor-aerial-view-picture-id1319991057?b=1&k=20&m=1319991057&s=170667a&w=0&h=MXEuQhq56vOInXq7NqZcBynvLxynnBIN8bwgm4dWE-U="
+        "title":"O Silêncio dos Inocentes",
+        "category":"Suspense",
+        "author":"Thomas Harris",
+        "publication_date": "1988",
+        "description": "Este é o segundo livro da famosa saga que tem Dr. Hannibal Lecter, o terrível canibal, como figura central da narrativa. Desta vez, o psicopata está internado num hospício de segurança máxima e é visitado por Clarice Starling, uma agente do FBI que precisa do seu auxílio para desvendar o caso de um outro assassino em série.",
+        "imageUrl": "https://cdn.culturagenial.com/imagens/o-silencio-dos-inocentes-cke.jpg?auto_optimize=low",
+        "imageLogoUrl":"https://cdn.culturagenial.com/imagens/o-silencio-dos-inocentes-cke.jpg?auto_optimize=low"
     },
     {
         "id": "2",
-        "name":"teste2",
-        "category":"Terror",
-        "description": "Fusce sodales varius est. Donec varius tellus dui, eu auctor mi convallis at. Mauris id tortor et massa fringilla placerat eget vitae odio. Sed placerat leo odio, at tincidunt turpis egestas non. Praesent quis euismod enim. Nullam ornare sem risus, eu scelerisque nisl faucibus eget. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed ac iaculis nisi. Aliquam commodo quis leo eu commodo. Nunc sed euismod neque. Praesent pretium ante non consectetur viverra. Praesent pulvinar ante a nisi interdum placerat. Aenean eget neque placerat, consequat ante ac, vestibulum ex.Nam a lacus consectetur, consectetur dolor sit amet, tempor enim. Morbi blandit velit molestie, tristique neque sit amet, viverra sapien. Sed tincidunt dictum ipsum, a bibendum arcu sollicitudin a. Vivamus et dictum neque. Nullam vitae turpis nec est maximus eleifend a et lorem. Duis varius accumsan diam et suscipit. In tortor elit, tincidunt ut vehicula eget, porttitor eu risus. Cras euismod ipsum fringilla, convallis turpis et, blandit eros. Suspendisse ut risus et purus tristique imperdiet. Integer finibus porta sapien, nec sodales sem. Mauris pulvinar imperdiet dui, sit amet pretium lorem interdum vitae. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tempor massa sed metus venenatis tincidunt.",
-        "imageUrl": "https://media.istockphoto.com/photos/law-quadrangle-university-of-michigan-ann-arbor-aerial-view-picture-id1319991057?b=1&k=20&m=1319991057&s=170667a&w=0&h=MXEuQhq56vOInXq7NqZcBynvLxynnBIN8bwgm4dWE-U=",
-        "imageLogoUrl":"https://media.istockphoto.com/photos/law-quadrangle-university-of-michigan-ann-arbor-aerial-view-picture-id1319991057?b=1&k=20&m=1319991057&s=170667a&w=0&h=MXEuQhq56vOInXq7NqZcBynvLxynnBIN8bwgm4dWE-U="
+        "title":"Caixa de Pássaros",
+        "category":"Suspense",
+        "author":"Josh Malerman",
+        "publication_date": "2014",
+        "description": "A obra de suspense e terror psicológico é contada na perspectiva de Malorie, uma mulher que sobrevive com os dois filhos num cenário apocalíptico, no qual a maioria da população enlouqueceu depois de ter visto alguma coisa.Assolados pelo medo, eles precisam se deslocar para algum lugar onde possam ficar seguros, mas a jornada é ainda mais arrepiante quando você não sabe do que está fugindo...",
+        "imageUrl": "https://cdn.culturagenial.com/imagens/caixa-de-passaros-0-cke.jpg?auto_optimize=low",
+        "imageLogoUrl":"https://cdn.culturagenial.com/imagens/caixa-de-passaros-0-cke.jpg?auto_optimize=low"
     },
     {
         "id": "3",
-        "name":"teste3",
+        "title":"Garota Exemplar",
         "category":"Suspense",
-        "description": "Fusce sodales varius est. Donec varius tellus dui, eu auctor mi convallis at. Mauris id tortor et massa fringilla placerat eget vitae odio. Sed placerat leo odio, at tincidunt turpis egestas non. Praesent quis euismod enim. Nullam ornare sem risus, eu scelerisque nisl faucibus eget. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed ac iaculis nisi. Aliquam commodo quis leo eu commodo. Nunc sed euismod neque. Praesent pretium ante non consectetur viverra. Praesent pulvinar ante a nisi interdum placerat. Aenean eget neque placerat, consequat ante ac, vestibulum ex.Nam a lacus consectetur, consectetur dolor sit amet, tempor enim. Morbi blandit velit molestie, tristique neque sit amet, viverra sapien. Sed tincidunt dictum ipsum, a bibendum arcu sollicitudin a. Vivamus et dictum neque. Nullam vitae turpis nec est maximus eleifend a et lorem. Duis varius accumsan diam et suscipit. In tortor elit, tincidunt ut vehicula eget, porttitor eu risus. Cras euismod ipsum fringilla, convallis turpis et, blandit eros. Suspendisse ut risus et purus tristique imperdiet. Integer finibus porta sapien, nec sodales sem. Mauris pulvinar imperdiet dui, sit amet pretium lorem interdum vitae. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tempor massa sed metus venenatis tincidunt.",
-        "imageUrl": "https://media.istockphoto.com/photos/law-quadrangle-university-of-michigan-ann-arbor-aerial-view-picture-id1319991057?b=1&k=20&m=1319991057&s=170667a&w=0&h=MXEuQhq56vOInXq7NqZcBynvLxynnBIN8bwgm4dWE-U=",
-        "imageLogoUrl":"https://media.istockphoto.com/photos/law-quadrangle-university-of-michigan-ann-arbor-aerial-view-picture-id1319991057?b=1&k=20&m=1319991057&s=170667a&w=0&h=MXEuQhq56vOInXq7NqZcBynvLxynnBIN8bwgm4dWE-U="
+        "author":"Gillian Flynn",
+        "publication_date": "2012",
+        "description": "Trata-se de uma história de suspense que lida com temáticas como os relacionamentos e a vingança. No dia do quinto aniversário de casamento, Nick chega em casa e descobre que a esposa, Amy, sumiu sem deixar rastro.O caso se torna muito popular na mídia e o público começa a desconfiar que Amy terá sido assassinada, apontando o marido como principal suspeito.",
+        "imageUrl": "https://cdn.culturagenial.com/imagens/garota-exemplar-cke.jpg",
+        "imageLogoUrl":"https://cdn.culturagenial.com/imagens/garota-exemplar-cke.jpg"
     },
     {
         "id": "4",
-        "name":"teste4",
+        "title":"O Iluminado",
         "category":"Suspense",
-        "description": "Fusce sodales varius est. Donec varius tellus dui, eu auctor mi convallis at. Mauris id tortor et massa fringilla placerat eget vitae odio. Sed placerat leo odio, at tincidunt turpis egestas non. Praesent quis euismod enim. Nullam ornare sem risus, eu scelerisque nisl faucibus eget. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed ac iaculis nisi. Aliquam commodo quis leo eu commodo. Nunc sed euismod neque. Praesent pretium ante non consectetur viverra. Praesent pulvinar ante a nisi interdum placerat. Aenean eget neque placerat, consequat ante ac, vestibulum ex.Nam a lacus consectetur, consectetur dolor sit amet, tempor enim. Morbi blandit velit molestie, tristique neque sit amet, viverra sapien. Sed tincidunt dictum ipsum, a bibendum arcu sollicitudin a. Vivamus et dictum neque. Nullam vitae turpis nec est maximus eleifend a et lorem. Duis varius accumsan diam et suscipit. In tortor elit, tincidunt ut vehicula eget, porttitor eu risus. Cras euismod ipsum fringilla, convallis turpis et, blandit eros. Suspendisse ut risus et purus tristique imperdiet. Integer finibus porta sapien, nec sodales sem. Mauris pulvinar imperdiet dui, sit amet pretium lorem interdum vitae. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tempor massa sed metus venenatis tincidunt.",
-        "imageUrl": "https://media.istockphoto.com/photos/law-quadrangle-university-of-michigan-ann-arbor-aerial-view-picture-id1319991057?b=1&k=20&m=1319991057&s=170667a&w=0&h=MXEuQhq56vOInXq7NqZcBynvLxynnBIN8bwgm4dWE-U=",
-        "imageLogoUrl":"https://media.istockphoto.com/photos/law-quadrangle-university-of-michigan-ann-arbor-aerial-view-picture-id1319991057?b=1&k=20&m=1319991057&s=170667a&w=0&h=MXEuQhq56vOInXq7NqZcBynvLxynnBIN8bwgm4dWE-U="
+        "author":"Stephen King",
+        "publication_date": "1977",
+        "description": "Jack é um escritor em declínio que aceita tomar conta de um hotel no meio das montanhas, totalmente afastado da civilização. O homem se muda com a mulher e o filho para o edifício que esconde um passado arrepiante e, aos poucos, começa a se tornar cada vez mais violento e descontrolado.A história já faz parte do nosso imaginário coletivo e foi imortalizada pela adaptação cinematográfica de Stanley Kubrick, com Jack Nicholson no papel principal.",
+        "imageUrl": "https://cdn.culturagenial.com/imagens/o-iluminado-cke.jpg?auto_optimize=low",
+        "imageLogoUrl":"https://cdn.culturagenial.com/imagens/o-iluminado-cke.jpg?auto_optimize=low"
+    },
+    {
+        "id": "5",
+        "title":"Pequenas Grandes Mentiras",
+        "category":"Suspense",
+        "author":"Liane Moriarty",
+        "publication_date": "2014",
+        "description": "A narrativa segue as vidas atribuladas de três mulheres: Madeline, Celeste e Jane. Os seus caminhos se cruzam no colégio onde os filhos estudam e elas criam uma grande amizade.Apesar da aparência de normalidade de todas aquelas famílias, cada um delas esconde mentiras e segredos macabros. Quando um membro da Associação de Pais morre misteriosamente, vamos conhecendo a verdade por trás de todos os personagens e percebendo que ninguém é o que parece.",
+         "imageUrl": "https://cdn.culturagenial.com/imagens/pequenas-grandes-mentiras-cke.jpg?auto_optimize=low",
+        "imageLogoUrl":"https://cdn.culturagenial.com/imagens/pequenas-grandes-mentiras-cke.jpg?auto_optimize=low"
+    },
+    {
+        "id": "7",
+        "title":"A Sociedade do Anel",
+        "category":"Fantasia",
+        "author":"J.R.R. Tolkien",
+        "publication_date": "1954",
+        "description": "No livro inicial, descobrimos que existe um Anel que contem um poder incalculável e, para que não caia nas mãos erradas, precisa ser transportado até à Montanha da Perdição, onde será destruído. A missão é liderada pelo hobbit Frodo, que reúne um grupo capaz de realizar a travessia difícil e perigosa.Assim é formada a Sociedade do Anel, composta por elementos com diferentes características e modos de agir: quatro hobbits, um mago, um elfo, um anão e dois humanos, que se unem para fazer o que é necessário para o bem comum.",
+         "imageUrl": "https://cdn.culturagenial.com/imagens/a-sociedade-do-anel-cke.jpg",
+        "imageLogoUrl":"https://cdn.culturagenial.com/imagens/a-sociedade-do-anel-cke.jpg"
+    },
+    {
+        "id": "8",
+        "title":"",
+        "category":"Fantasia",
+        "author":"George R. R. Martin",
+        "publication_date": "1996",
+        "description": "Atravessada por incontáveis batalhas pelo Trono de Ferro e o domínio dos Sete Reinos, a narrativa é influenciada por vários elementos mágicos como feiticeiras, dragões e até zumbis. No primeiro livro, conhecemos algumas figuras essenciais da história.É o caso do clã Stark, Jon Snow, o bastardo que é enviado para a Muralha, o rei Robert Baratheon e a sua família, os terríveis Lannister. Também é aqui que começa a aventura de Daenerys, herdeira dos Targaryen, que consegue fazer eclodir três ovos de dragão.",
+         "imageUrl": "https://cdn.culturagenial.com/imagens/a-guerra-dos-tronos-cke.jpg?auto_optimize=low",
+        "imageLogoUrl":"https://cdn.culturagenial.com/imagens/a-guerra-dos-tronos-cke.jpg?auto_optimize=low"
+    },
+    {
+        "id": "9",
+        "title":"Deuses Americanos",
+        "category":"Fantasia",
+        "author":"Neil Gaiman",
+        "publication_date": "2001",
+        "description": "A narrativa é construída segundo o pressuposto de que os deuses antigos vivem entre nós e a sua existência depende da fé que os humanos depositam neles.Com o surgimento dos deuses da modernidade, associados ao estilo de vida atual (como a tecnologia, as celebridades, etc), as divindades antigas começam a perder a sua força.Assim, resolvem se unir e enfrentar os novos deuses, numa batalha pelo poder. Toda a história é assistida por Shadow, o protagonista que acabou de sair da prisão e foi contratado para trabalhar como segurança de Wednesday, uma figura muito estranha.",
+         "imageUrl": "https://cdn.culturagenial.com/imagens/deuses-americanos-cke.jpg?auto_optimize=low",
+        "imageLogoUrl":"https://cdn.culturagenial.com/imagens/deuses-americanos-cke.jpg?auto_optimize=low"
+    },
+    {
+        "id": "10",
+        "title":"Harry Potter e a Pedra Filosofal",
+        "category":"Fantasia",
+        "author":"J.K. Rowling",
+        "publication_date": "1997",
+        "description": "O protagonista, Harry, é um garoto órfão que vive com os tios negligentes. No dia em que completa 11 anos, ele recebe uma carta com um convite para estudar numa grandiosa escola de magia chamada Hogwards.Potter descobre que é um feiticeiro e deixa tudo para trás para aprender a usar os seus poderes. Embora faça muitas amizades em Hogwards, ele descobre que, além do dom, também herdou alguns inimigos poderosos.",
+         "imageUrl": "https://cdn.culturagenial.com/imagens/harry-potter-e-a-pedra-filosofal-cke.jpg?auto_optimize=low",
+        "imageLogoUrl":"https://cdn.culturagenial.com/imagens/harry-potter-e-a-pedra-filosofal-cke.jpg?auto_optimize=low"
+    },
+    {
+        "id": "11",
+        "title":"Duna",
+        "category":"Fantasia",
+        "author":"Frank Herbert",
+        "publication_date": "1965",
+        "description": "O enredo é passado em outra galáxia, num futuro longínquo no qual se vive um regime feudal. A sociedade é dominada por três linhagens nobres: os Corrino, os Harkonnen e os Atreides.Aqui, o protagonista é Paul Atreides, o jovem herdeiro cuja família é enviada para tomar conta de Arrakis, um planeta desértico, também conhecido como a Duna. Além de tratar as relações políticas e sociais, a obra também reflete sobre questões como a filosofia e a religião.",
+         "imageUrl": "https://cdn.culturagenial.com/imagens/duna-frank-herbert-cke.jpg?auto_optimize=low",
+        "imageLogoUrl":"https://cdn.culturagenial.com/imagens/duna-frank-herbert-cke.jpg?auto_optimize=low"
+    },
+    {
+        "id": "12",
+        "title":"A culpa é das estrelas",
+        "category":"Romance",
+        "author":"John Green",
+        "publication_date": "2012",
+        "description": "A triste história de romance jovem apresenta Hazel, uma garota de 17 anos que desde o começo da adolescência convive com um câncer. Como sugestão da mãe, ela passa a frequentar um grupo de apoio a jovens que passam pelo mesmo problema.Lá conhece Gus, um rapaz com osteossarcoma, um tipo de câncer no osso. Os dois então se apaixonam e precisam enfrentar as dificuldades de saúde.",
+         "imageUrl": "https://cdn.culturagenial.com/imagens/a-culpa-e-das-estrelas-0-cke.jpg?auto_optimize=low",
+        "imageLogoUrl":"https://cdn.culturagenial.com/imagens/a-culpa-e-das-estrelas-0-cke.jpg?auto_optimize=low"
+    },
+    {
+        "id": "13",
+        "title":"Me chame pelo seu nome",
+        "category":"Romance",
+        "author":"André Aciman",
+        "publication_date": "2007",
+        "description": "Conta a história de amor e descobertas de um adolescente de 17 anos por um homem mais velho, de 24 anos, durante uma viagem de férias. O cenário é uma bela paisagem no litoral da Itália e se passa nos anos 80.O interessante é que, diferente de outras histórias LGBTQIA+, traz uma atmosfera tranquila em relação ao preconceito, naturalizando a relação homoafetiva e exibindo o tema de maneira delicada.",
+         "imageUrl": "https://cdn.culturagenial.com/imagens/me-chame-pelo-seu-nome-0-cke.jpg",
+        "imageLogoUrl":"https://cdn.culturagenial.com/imagens/me-chame-pelo-seu-nome-0-cke.jpg"
+    },
+    {
+        "id": "14",
+        "title":"Como eu era antes de você",
+        "category":"Romance",
+        "author":"Jojo Moyes",
+        "publication_date": "2016",
+        "description": "A trama apresenta Lou Clark, uma jovem entusiasmada pela vida que trabalha em um café e tem um namorado que ela não ama.Ao perder o emprego, sua vida sofrerá uma reviravolta. Ela conhece Will Traynor, um rapaz que sofreu um acidente de moto e está na cadeira de rodas. Esse encontro transformará suas vidas, ao viverem uma bela história de amor cheia de desafios.",
+         "imageUrl": "https://cdn.culturagenial.com/imagens/como-eu-era-antes-de-voce-livro-cke.jpg?auto_optimize=low",
+        "imageLogoUrl":"https://cdn.culturagenial.com/imagens/como-eu-era-antes-de-voce-livro-cke.jpg?auto_optimize=low"
+    },
+    {
+        "id": "15",
+        "title":"Orgulho e preconceito",
+        "category":"Romance",
+        "author":"Jane Austen",
+        "publication_date": "1813",
+        "description": "A trama açucarada tem como protagonista Elizabeth Bennet, filha de um proprietário de terras na Inglaterra. O amor é colocado no início como um sentimento impossível, pois Elizabeth sente desprezo por Sr. Darcy quando o conhece.Mas, com o tempo e os acontecimentos, o vínculo entre eles se torna uma grande paixão.O livro é um sucesso no mundo todo, servindo como inspiração para muitas tramas românticas na literatura e no cinema.",
+         "imageUrl": "https://cdn.culturagenial.com/imagens/orgulho-e-preconceito-livro-cke.jpg?auto_optimize=low",
+        "imageLogoUrl":"https://cdn.culturagenial.com/imagens/orgulho-e-preconceito-livro-cke.jpg?auto_optimize=low"
+    },
+    {
+        "id": "16",
+        "title":"Quinze dias",
+        "category":"Romance",
+        "author":"Vitor Martins",
+        "publication_date": "2017",
+        "description": "A narrativa acompanha o adolescente Felipe contando suas dificuldades e o constrangimento de ter que conviver bem próximo ao antigo amigo de infância. Caio é seu vizinho e fica hospedado em sua casa por quinze dias, enquanto seus pais viajam.Então Felipe precisará lidar com seus sentimentos enquanto revive um antigo amor pelo amigo.",
+         "imageUrl": "https://cdn.culturagenial.com/imagens/quinze-dias-livro-cke.jpg?auto_optimize=low",
+        "imageLogoUrl":"https://cdn.culturagenial.com/imagens/quinze-dias-livro-cke.jpg?auto_optimize=low"
+    },
+    {
+        "id": "17",
+        "title":"",
+        "category":"",
+        "author":"",
+        "publication_date": "",
+        "description": "",
+         "imageUrl": "",
+        "imageLogoUrl":""
+    },
+    {
+        "id": "18",
+        "title":"",
+        "category":"",
+        "author":"",
+        "publication_date": "",
+        "description": "",
+         "imageUrl": "",
+        "imageLogoUrl":""
+    },
+    {
+        "id": "19",
+        "title":"",
+        "category":"",
+        "author":"",
+        "publication_date": "",
+        "description": "",
+         "imageUrl": "",
+        "imageLogoUrl":""
+    },
+    {
+        "id": "20",
+        "title":"",
+        "category":"",
+        "author":"",
+        "publication_date": "",
+        "description": "",
+         "imageUrl": "",
+        "imageLogoUrl":""
+    },
+    {
+        "id": "21",
+        "title":"",
+        "category":"",
+        "author":"",
+        "publication_date": "",
+        "description": "",
+         "imageUrl": "",
+        "imageLogoUrl":""
+    },
+    {
+        "id": "22",
+        "title":"",
+        "category":"",
+        "author":"",
+        "publication_date": "",
+        "description": "",
+         "imageUrl": "",
+        "imageLogoUrl":""
+    },
+    {
+        "id": "23",
+        "title":"",
+        "category":"",
+        "author":"",
+        "publication_date": "",
+        "description": "",
+         "imageUrl": "",
+        "imageLogoUrl":""
+    },
+    {
+        "id": "24",
+        "title":"",
+        "category":"",
+        "author":"",
+        "publication_date": "",
+        "description": "",
+         "imageUrl": "",
+        "imageLogoUrl":""
+    },
+    {
+        "id": "25",
+        "title":"",
+        "category":"",
+        "author":"",
+        "publication_date": "",
+        "description": "",
+         "imageUrl": "",
+        "imageLogoUrl":""
+    },
+    {
+        "id": "26",
+        "title":"",
+        "category":"",
+        "author":"",
+        "publication_date": "",
+        "description": "",
+         "imageUrl": "",
+        "imageLogoUrl":""
+    },
+    {
+        "id": "27",
+        "title":"",
+        "category":"",
+        "author":"",
+        "publication_date": "",
+        "description": "",
+         "imageUrl": "",
+        "imageLogoUrl":""
+    },
+    {
+        "id": "28",
+        "title":"",
+        "category":"",
+        "author":"",
+        "publication_date": "",
+        "description": "",
+         "imageUrl": "",
+        "imageLogoUrl":""
+    },
+    {
+        "id": "29",
+        "title":"",
+        "category":"",
+        "author":"",
+        "publication_date": "",
+        "description": "",
+         "imageUrl": "",
+        "imageLogoUrl":""
+    },
+    {
+        "id": "30",
+        "title":"",
+        "category":"",
+        "author":"",
+        "publication_date": "",
+        "description": "",
+         "imageUrl": "",
+        "imageLogoUrl":""
+    },
+    {
+        "id": "31",
+        "title":"",
+        "category":"",
+        "author":"",
+        "publication_date": "",
+        "description": "",
+         "imageUrl": "",
+        "imageLogoUrl":""
+    },
+    {
+        "id": "32",
+        "title":"",
+        "category":"",
+        "author":"",
+        "publication_date": "",
+        "description": "",
+         "imageUrl": "",
+        "imageLogoUrl":""
+    },
+    {
+        "id": "33",
+        "title":"",
+        "category":"",
+        "author":"",
+        "publication_date": "",
+        "description": "",
+         "imageUrl": "",
+        "imageLogoUrl":""
     }
+   
 ]

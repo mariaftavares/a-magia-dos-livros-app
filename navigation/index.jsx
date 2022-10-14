@@ -2,11 +2,9 @@ import 'react-native-gesture-handler';
 import { FontAwesome } from '@expo/vector-icons';
 import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
 import { createDrawerNavigator } from '@react-navigation/drawer';
-import { NavigationContainer, DefaultTheme, DarkTheme } from '@react-navigation/native';
-import { createNativeStackNavigator, CardStyleInterpolators } from '@react-navigation/native-stack';
+import { NavigationContainer, DefaultTheme} from '@react-navigation/native';
+import { createNativeStackNavigator} from '@react-navigation/native-stack';
 import * as React from 'react';
-
-import useColorScheme from '../hooks/useColorScheme';
 import BookListScreen from '../screens/BookListScreen';
 import BookDetails from '../screens/BookDetails';
 import Initial from '../screens/Initial'
@@ -51,13 +49,12 @@ function RootNavigator() {
 const BottomTab = createBottomTabNavigator();
 
 function BottomTabNavigator() {
-  const colorScheme = useColorScheme();
 
   return (
     <BottomTab.Navigator
-      initialRouteName="Eventos"
+      initialRouteName="Sobre"
       screenOptions={{
-        tabBarActiveTintColor: 'blue',
+        tabBarActiveTintColor: '#448589',
       }}>
       <BottomTab.Screen
         name="Sobre"

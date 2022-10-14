@@ -10,14 +10,14 @@ export default function ExtensionsListScreen({navigation, route}) {
   function renderEvent ({item}){
     function onPressHandler() {
       navigation.navigate("BookDetails", {
-        name: item.name,
+        title: item.title,
         category: item.category,
         imageUrl: item.imageUrl,
         description: item.description
       })
     };
   
-    return <List name={item.name} imageUrl={item.imageUrl} category={item.category} onPress={onPressHandler}/>;
+    return <List title={item.title} imageUrl={item.imageUrl} category={item.category} onPress={onPressHandler}/>;
   }
 
   return (
