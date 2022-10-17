@@ -18,4 +18,4 @@ Para abrir o projeto no `VSCODE`, é necessário:
 - Ir na barra de menus e selecionar a opção `file` ou `arquivo`;
 - Selecione a opção `open folder ...` e procure a pasta onde está o projeto;
 - Por fim clique em `OK`.
-- Entre na pasta  `app-library` e execute o comando npm install, caso não tenha o expo instlado execute o comando npm install --global expo-cli e depois npm run start. 
+- Entre na pasta  `app-library` e execute o comando npm install, caso não tenha o expo instalado execute o comando npm install --global expo-cli e depois npm run start. 
